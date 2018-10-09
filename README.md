@@ -7,9 +7,9 @@ The `src/` folder contains experiment TensorFlow code for Visualizing CNN (<a hr
 # Some results from these experiments:
 ## Neural Style transfer
 
-**Oak Tree** <br>
+**Oak Tree styled by <a href="./styles/dwelling.jpg">dwelling image</a>** <br>
 <img src="./results/oaktree.png" width="700px"/> <br>
-**Ha Long Bay** <br>
+**Ha Long Bay styled by <a href="./styles/eva.jpg">eva image</a>** <br>
 <img src="./results/hlbay.jpg" width="700px"/> <br> 
 
 ## Fooling CNN by Adversarial noise

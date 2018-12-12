@@ -2,7 +2,7 @@
 
 <a href="https://docs.google.com/presentation/d/1q3oewfa8KgXzNmRahkGQOKR-miF1bRrB-Bq3yYYvClo">Slide</a> about "Visualizing CNNs and Neural aesthetic" topic.
 
-This repository contains **Understanding CNN by visualizing & Neural Style Transfer** tutorial notebook. I further provide an overview of the current progress of NST aspect, which is receiving increasing attention from both in academic literature and industrial companies.
+This repository contains **Understanding CNN by visualizing & Neural Style Transfer** tutorial notebook. I further provide an overview of the current progress of NST topic, which is receiving increasing attention from both in academic literature and industrial companies.
 <br><br>
 The `src/` folder contains experiment TensorFlow code for Visualizing CNN (<a href="https://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip">Using Inception_V1 trained model</a>), Fooling CNN by adversarial examples, Refining Neural image & Deep dream.
 
